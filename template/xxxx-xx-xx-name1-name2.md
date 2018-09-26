@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      从一道网易面试题浅谈 Tagged Pointer
-subtitle:   浅谈 Tagged Pointer
+title:      name1xxxx
+subtitle:   name2xxxx
 date:       2017-12-26
-author:     BY
+author:     KevinZhang
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
-    - iOS
+    - personal
 ---
 
 
@@ -101,7 +101,4 @@ Tagged Pointer 是一个能够提升性能、节省内存的有趣的技术。
 
 - [从一道网易面试题浅谈OC线程安全](https://www.jianshu.com/p/cec2a41aa0e7)
 
-- [深入理解Tagged Pointer](http://www.infoq.com/cn/articles/deep-understanding-of-tagged-pointer)
-
-- [【译】采用Tagged Pointer的字符串](http://www.cocoachina.com/ios/20150918/13449.html)
 
