@@ -1,7 +1,7 @@
 # Site settings
-title: Kevin Blog                        # 
+title: Kevin Blog                        #
 SEOTitle: 爱瑶的博客 | kevin Blog         # seo title
-header-img: img/post-bg-desk.jpg      # website backgrond 
+header-img: img/post-bg-desk.jpg      # website backgrond
 email: zhangkunming0216@gmail.com
 description: "爱瑶瑶，爱生活"
 keyword: "fpga , python , pcb , leetcode"
@@ -103,6 +103,6 @@ friends: [
         href: "http://digilab.com.cn"
     },{
         title: "知乎·kevin",
-        href: "hhttps://www.zhihu.com/people/zhangkunming/activities"
+        href: "https://www.zhihu.com/people/zhangkunming/activities"
     }
 ]
