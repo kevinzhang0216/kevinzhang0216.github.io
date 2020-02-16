@@ -38,5 +38,5 @@ plt.title('妹妹的小日子', fontsize=24)
 plt.grid(True)
 #plt.savefig("妹妹的小日子_"+str(datetime.now().year)+'年'+
 #            str(datetime.now().month)+'月'+str(datetime.now().day)+'日'+".png")
-plt.savefig("妹妹的小日子"+".png")
+plt.savefig("bodyhealth"+".png")
 plt.show()
