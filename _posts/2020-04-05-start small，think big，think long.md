@@ -2,7 +2,7 @@
 layout:     post
 title:      satrt small，think big，think long
 subtitle:   读《选择做时间的朋友Think big Think long》有感
-date:       2019-06-30
+date:       2020-04-05
 author:     KevinZhang
 header-img: img/post-bg-mma-5.jpg
 catalog: true
