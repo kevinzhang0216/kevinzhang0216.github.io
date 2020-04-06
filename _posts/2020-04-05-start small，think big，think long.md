@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      satrt small，think big，think long
+title:      satat small，think big，think long
 subtitle:   读《选择做时间的朋友Think big Think long》有感
 date:       2020-04-05
 author:     KevinZhang
@@ -76,7 +76,3 @@ Start small, think big，think long。从小事入手，踏实做好每一件事
 
 ## 参考文献
 1. [高瓴张磊：选择做时间的朋友Think big Think long](https://mp.weixin.qq.com/s/leH4VKw03-0RiHJm0M1eKg)
-
-
-
-
