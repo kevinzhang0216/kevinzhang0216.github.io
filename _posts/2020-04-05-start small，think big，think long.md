@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      satat small，think big，think long
+title:      start small，think big，think long
 subtitle:   读《选择做时间的朋友Think big Think long》有感
 date:       2020-04-05
 author:     KevinZhang
